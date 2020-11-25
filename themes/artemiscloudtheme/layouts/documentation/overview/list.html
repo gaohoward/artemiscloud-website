@@ -1,7 +1,6 @@
 {{ define "main" }}
 {{ partial "page-header.html" . }}
 
-{{ "<!-- overview -->" | safeHTML }}
 <section class="section">
     <div class="container">
         <div id="toc" class="well col-md-4 col-sm-6">
@@ -11,7 +10,6 @@
         {{ .Content }}
     </div>
 </section>
-{{ "<!-- /overview -->" | safeHTML }}
 
 
 <!-- call to action -->
