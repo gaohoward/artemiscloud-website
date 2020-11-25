@@ -1,7 +1,6 @@
 ####################### Banner #########################
 banner:
   title: "artemiscloud allows you to expose the power of ActiveMQ Artemis with kubernetes"
-  image: "images/banner-art.svg"
   content: "artemiscloud is a collection of container images that allows the quick and easy deployment of Artemis with an Operator based solution"
 
 ##################### Feature ##########################
