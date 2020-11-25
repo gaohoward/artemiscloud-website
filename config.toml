@@ -1,6 +1,6 @@
 baseURL = "https://andytaylor.github.io/hugo-example/"
 title = "Artemis Cloud"
-theme = "bigspring"
+theme = "artemiscloudtheme"
 languageName = "En"
 languageCode = "en-us"
 
