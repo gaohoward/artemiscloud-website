@@ -1,17 +1,13 @@
 ####################### Banner #########################
 banner:
-  title: "Let us solve your critical website <br> development challenges"
+  title: "artemiscloud allows you to expose the power of ActiveMQ Artemis with kubernetes"
   image: "images/banner-art.svg"
-  content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
-  button:
-    enable: true
-    label: "Contact With Us"
-    link: "#"
+  content: "artemiscloud is a collection of container images that allows the quick and easy deployment of Artemis with an Operator based solution"
 
 ##################### Feature ##########################
 feature:
   enable: true
-  title: "You need to know"
+  title: "Feature Set"
   feature_item:
     # feature item loop
     - name: "Cloud Oriented"
@@ -19,16 +15,11 @@ feature:
       content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
     # feature item loop
-    - name: "Clean code"
-      icon: "ti-package"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-
-        # feature item loop
     - name: "Kubernetes"
       icon: "ti-package"
       content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
-        # feature item loop
+    # feature item loop
     - name: "Openshift"
       icon: "ti-package"
       content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
@@ -39,12 +30,7 @@ feature:
       content: "AMQP, MQTT, STOMP, JMS, CORE"
 
     # feature item loop
-    - name: "Fast Responses"
-      icon: "ti-headphone-alt"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-
-    # feature item loop
-    - name: "High Availibility"
+    - name: "High Availability"
       icon: "ti-pulse"
       content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
@@ -74,39 +60,3 @@ service:
         label: "Check it out"
         link: "#"
 
-    # service item loop
-    - title: "It’s a team of experienced and skilled people with distributions"
-      images:
-        - "images/service-2.png"
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable: true
-        label: "Check it out"
-        link: "#"
-
-    # service item loop
-    - title: "A company standing different from others"
-      images:
-        - "images/service-3.png"
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      button:
-        enable: true
-        label: "Check it out"
-        link: "#"
-
-################### Screenshot ########################
-screenshot:
-  enable: true
-  title: "Experience the best <br> workflow with us"
-  image: "images/screenshot.svg"
-
-##################### Call to action #####################
-call_to_action:
-  enable: true
-  title: "Ready to get started?"
-  image: "images/cta.svg"
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
-  button:
-    enable: true
-    label: "Get started"
-    link: "get-started"

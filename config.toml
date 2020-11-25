@@ -68,11 +68,6 @@ URL = "community"
 weight = 5
 
 [[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 6
-
-[[menu.main]]
 name = "FAQ"
 URL = "faq"
 weight = 7
@@ -139,12 +134,6 @@ copyright = "All code and documentation is licensed under the Apache License ver
 [params.preloader]
 enable = false
 preloader = "" # use jpg, png, svg or gif format.
-
-# Navigation buttons
-[params.navigation_button]
-enable = true
-label = "Getting started"
-link = "getting-started"
 
 ############################# social site ########################
 [[params.social]]
