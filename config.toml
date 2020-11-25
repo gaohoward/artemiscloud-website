@@ -1,4 +1,4 @@
-baseURL = "https://enkeys.github.io/hugo-example/"
+baseURL = "https://andytaylor.github.io/hugo-example/"
 title = "Artemis Cloud"
 theme = "bigspring"
 languageName = "En"
