@@ -1,11 +1,10 @@
 ---
-title: "Overview"
+title: "Example Custom Resources"
 subtitle: ""
 # meta description
 description: "This is meta description"
 draft: false
 ---
-
 
 ## Introduction
 
