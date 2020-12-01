@@ -1,5 +1,5 @@
 ---
-title: "What is artemiscloud"
+title: "What is ArtemisCloud"
 date: 2020-04-18T10:07:21+06:00
 # post image
 image: "images/blog/post-2.jpg"

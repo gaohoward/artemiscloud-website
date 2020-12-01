@@ -1,9 +1,9 @@
 ---
-title: "Welcome to artemiscloud"
+title: "Welcome to ArtemisCloud"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "this is just our first hello to our artemiscloud blog"
+description: "this is just our first hello to our ArtemisCloud blog"
 # post draft
 draft: false
 ---
