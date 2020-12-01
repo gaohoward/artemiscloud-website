@@ -1,6 +1,14 @@
 // banner
 .banner {
-  padding: 100px 0 50px;
+  //background-color: #563175;
+  background: linear-gradient(to right bottom, #563175 0%, #b284d9 100%);
+  padding: 100px 0 55px;
+  h1 {
+    color: $white;
+  }
+  .mb-4, .my-4 {
+      color: $white;
+  }
 }
 
 .feature-card {
