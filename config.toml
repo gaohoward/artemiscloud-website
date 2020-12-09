@@ -122,7 +122,8 @@ contact_form_action = "#" # contact form works with https://formspree.io
 #footer_menu_left = "Company"
 #footer_menu_middle = "Product"
 #footer_menu_right = "Support"
-footer_content = "ArtemisCloud is canny brill like"
+footer_title = "ArtemisCloud"
+footer_content = "Follow us on social ....."
 # copyright
 copyright = "All code and documentation is licensed under the Apache License version 2.0. Marks may be trademarks or registered trademarks of their respective owners."
 
