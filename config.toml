@@ -1,5 +1,4 @@
-baseURL = "https://andytaylor.github.io/hugo-example/"
-# baseURL = "http://localhost:63342/hugo-example/public"
+#baseURL = "https://rh-messaging.github.io/artemiscloud-website/"
 title = "Artemis Cloud"
 theme = "artemiscloudtheme"
 languageName = "En"
