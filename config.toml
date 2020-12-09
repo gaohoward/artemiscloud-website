@@ -1,4 +1,4 @@
-#baseURL = "https://rh-messaging.github.io/artemiscloud-website/"
+baseURL = "https://rh-messaging.github.io/artemiscloud-website/"
 title = "Artemis Cloud"
 theme = "artemiscloudtheme"
 languageName = "En"
